@@ -1,6 +1,10 @@
 # todo_flutter
+Flutter + SQLite
 
-A new Flutter project.
+A mobile app for todo list impelementation in flutter using SQLite
+![Screenshot_1680499642](https://user-images.githubusercontent.com/21031360/229419126-f3a91887-fc2c-4e44-96b2-6be17f70b160.png)
+![Screenshot_1680499635](https://user-images.githubusercontent.com/21031360/229419139-9dcd1e5d-532a-4056-8e54-419d8d15cd66.png)
+![Screenshot_1680499629](https://user-images.githubusercontent.com/21031360/229419145-ea42fe85-f45e-4e33-9007-a87a9bd6d6b0.png)
 
 ## Getting Started
 
